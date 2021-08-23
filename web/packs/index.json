@@ -1,0 +1,15 @@
+{
+    "homeserver_url": "https://jaeger.website",
+    "packs": [
+      "kaguyasama.json",
+      "holo.json",
+      "fubuki.json",
+      "deutsch.json",
+      "discord.json",
+      "Liyuu.json",
+      "tanya.json",
+      "eva.json",
+      "Shinobu.json"
+    ]
+}
+
